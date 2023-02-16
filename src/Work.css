@@ -1,0 +1,155 @@
+ .work{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+ }
+
+.p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.tamer{
+    display: flex;
+    justify-content: center;
+}
+
+.tamer img{
+    width: 1200px;
+
+    margin-top: 10px;
+   
+}
+
+.gomhor{
+    display: flex;
+    justify-content: center;
+}
+
+.gomhor img{
+    width: 1200px;
+    margin-top: 10px;
+}
+
+.event{
+    display: flex;
+    justify-content: center;
+}
+
+.event img{
+    width: 1200px;
+    margin-top: 10px;
+}
+
+.x{
+    display: flex;
+    justify-content: center;
+}
+.x img{
+    width: 1200px;
+    margin-top: 10px;
+}
+
+.y{
+    display: flex;
+    justify-content: center;
+}
+
+.y img{
+    margin-top: 10px;
+    width: 1200px;
+}
+
+.i{
+    display: flex;
+    justify-content: center;
+
+}
+
+.i img{
+    margin-top: 10px;
+    width: 1200px;
+}
+
+.o{
+    
+    display: flex;
+    justify-content: center;
+
+}
+.o img{
+    margin-top: 10px;
+    width: 1200px;
+   
+}
+.con{
+    display: flex;
+    justify-content: center;
+
+}
+.con img{
+    margin-top: 10px;
+    width: 1200px;
+   
+
+}
+
+.img{
+    width: 600px;
+    margin-top: 10px;
+}
+.sora {
+    display: flex;
+    justify-content:space-around;
+}
+
+.wa7da{
+    display: flex;
+    justify-content: center;
+
+}
+
+.wa7da img{
+    margin-top: 10px;
+    width: 800px;
+
+}
+
+.wedding{
+    display: flex;
+    justify-content: center;
+}
+
+.wedding img{
+    margin-top: 10px;
+    width: 1200px;
+}
+
+
+
+.wedding .less{
+    width: 800px;
+}
+
+.wedding .more{
+    width: 1000px;
+}
+
+.small{
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.space{
+    display: flex;
+    justify-content: space-around;
+}
+
+.big{
+    width: 600px;
+    margin-top: 10px;
+}
+
+
